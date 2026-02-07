@@ -35,16 +35,16 @@ Actualmente me enfoco en el **Desarrollo Full-Stack (más relacionado al FrontEn
 
 ## 🌟 Proyectos Destacados
 
-### 🤖 [Jarvis V9 - Asistente con Arquitectura MCP](https://github.com/CursedPuppy/JarvisV9)
+### 🤖 [Jarvis V9 - Asistente con Arquitectura MCP](https://github.com/cursedpuppy/JarvisTest)
 Asistente virtual híbrido que utiliza **Ollama** local y **Gemini** en la nube. Incluye voz neuronal con **Piper TTS**, monitoreo de sistema y un **Agente de Búsqueda de Empleo** que analiza compatibilidad con IA y genera reportes en PDF.
 
 ### 📑 [Sistema de Gestión & Autoservicio (OTEC) (repositorio privado)]
 [cite_start]Plataforma integral para **SyC Chile Capacitaciones** que automatiza el ciclo de vida de certificaciones académicas. Implementé un **"Robot" en Python** que procesa PDFs masivos, separa documentos por RUT mediante OCR y sincroniza enlaces con una arquitectura de **Proxy Inverso**. 
 
-### 👁️ [Detección de Personas en Tiempo Real](https://github.com/CursedPuppy/CamarasIA)
+### 👁️ [Detección de Personas en Tiempo Real](https://github.com/cursedpuppy/camarasIA)
 Aplicación web desarrollada con **Flask** y **YOLOv8** para la vigilancia inteligente. Soporta cámaras locales e IP (RTSP), ofreciendo estadísticas en vivo y optimización de frames para baja latencia.
 
-### 🌌 [C++](https://github.com/CursedPuppy/CppCientifico)
+### 🌌 [C++](https://github.com/cursedpuppy/PracticaCpp)
 Repositorio dedicado a la simulación científica y aprendizaje de este programa. Programas enfocados en la precisión de datos y resolución de algoritmos complejos de física numérica.
 
 ---
