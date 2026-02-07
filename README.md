@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cursedpuppy/cursedpuppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌌 Vicente Scheihing Rosas
+### 👨‍💻 Ingeniero en Informática | Full-Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vscr.23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/CursedPuppy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+
+</div>
+
+---
+
+## 🚀 Sobre Mí
+
+[cite_start]Soy **Ingeniero en Informática** egresado del Instituto Profesional Santo Tomás[cite: 2, 9, 34, 35]. [cite_start]Me apasiona resolver problemas reales mediante la tecnología, desde la automatización de procesos empresariales hasta la creación de asistentes inteligentes con IA[cite: 10, 22, 23, 66, 67, 71].
+
+Actualmente me enfoco en el **Desarrollo Full-Stack (más relacionado al FrontEnd)** y la integración de **Modelos de Lenguaje (LLMs)** en entornos productivos.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `Python`, `C++`, `Java`, `PHP`, `JavaScript (ES6+)`, `HTML5/CSS3` |
+| **IA & Data** | `YOLOv8`, `Ollama (Mistral)`, `Gemini API`, `OpenCV`, `PyMuPDF (OCR)` |
+| **Backend** | `Flask`, `API REST`, `MCP (Model Context Protocol)`, `Node.js` |
+| **Bases de Datos** | [cite_start]`MySQL / MariaDB`, `Firebase Firestore`, `NoSQL` [cite: 5, 21, 391, 423, 513] |
+| **Otras** | `Git/GitHub`, `Arduino (IoT)`, `Scraping (Playwright)`, `Linux/VPS` |
+
+---
+
+## 🌟 Proyectos Destacados
+
+### 🤖 [Jarvis V9 - Asistente con Arquitectura MCP](https://github.com/CursedPuppy/JarvisV9)
+Asistente virtual híbrido que utiliza **Ollama** local y **Gemini** en la nube. Incluye voz neuronal con **Piper TTS**, monitoreo de sistema y un **Agente de Búsqueda de Empleo** que analiza compatibilidad con IA y genera reportes en PDF.
+
+### 📑 [Sistema de Gestión & Autoservicio (OTEC) (repositorio privado)]
+[cite_start]Plataforma integral para **SyC Chile Capacitaciones** que automatiza el ciclo de vida de certificaciones académicas[cite: 32, 33, 36, 66]. [cite_start]Implementé un **"Robot" en Python** que procesa PDFs masivos, separa documentos por RUT mediante OCR y sincroniza enlaces con una arquitectura de **Proxy Inverso**[cite: 68, 71, 72]. 
+
+### 👁️ [Detección de Personas en Tiempo Real](https://github.com/CursedPuppy/CamarasIA)
+Aplicación web desarrollada con **Flask** y **YOLOv8** para la vigilancia inteligente. Soporta cámaras locales e IP (RTSP), ofreciendo estadísticas en vivo y optimización de frames para baja latencia.
+
+### 🌌 [C++](https://github.com/CursedPuppy/CppCientifico)
+Repositorio dedicado a la simulación científica y aprendizaje de este programa. Programas enfocados en la precisión de datos y resolución de algoritmos complejos de física numérica.
+
+---
+
+## 🧠 Intereses & Soft Skills
+
+* **Filosofía:** Me gusta analizar conceptos de Sartre, Camus y Byung-Chul Han aplicados a la sociedad actual.
+* **Calistenia:** Entrenamiento enfocado en hipertrofia y control corporal (Weighted Dips/Pull-ups).
+* **Ciencia:** Curiosidad constante por la ciencia en general y las fuerzas fundamentales del universo.
+* [cite_start]**Comunicación:** Capacidad de trabajar en equipos multidisciplinarios y explicar términos técnicos de forma sencilla[cite: 8, 118, 507].
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CursedPuppy&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</div>
+
+---
+
+<p align="center">
+  <i>"Whatever doesn't kill you, simply makes you... stranger"</i>
+</p>
