@@ -45,7 +45,7 @@ Plataforma integral para **SyC Chile Capacitaciones** que automatiza el ciclo de
 Aplicación web desarrollada con **Flask** y **YOLOv8** para la vigilancia inteligente. Soporta cámaras locales e IP (RTSP), ofreciendo estadísticas en vivo y optimización de frames para baja latencia.
 
 ### 🌌 [Scientific Sandbox/Lab](https://github.com/cursedpuppy/PracticaCpp)
-Mi espacio de experimentación técnica donde fusiono la ingeniería con las ciencias naturales. Actualmente enfocado en el aprendizaje profundo de C++ mediante la creación de simuladores de física numérica y herramientas de bioacústica. El objetivo es desarrollar algoritmos de alto rendimiento capaces de modelar fenómenos complejos, como la síntesis sonora de especies extintas basada en morfología ósea.
+Mi espacio de experimentación técnica donde fusiono la ingeniería con las ciencias naturales. Actualmente enfocado en el aprendizaje de C++. 
 
 ### 🏐 [Academia 162m - Plataforma Educativa Interactiva](https://academia162m.web.app/)
 Plataforma web educativa estática desarrollada con HTML5, CSS3, Vanilla JavaScript y Firebase Hosting para la enseñanza integral y abierta del voleibol. Destaca por la implementación de simuladores interactivos, incluyendo un motor de toma de decisiones para psicología deportiva y modelos anatómicos SVG manipulables para la prevención de lesiones. Su arquitectura frontend modular permite una experiencia de usuario fluida y gamificada, operando sin dependencias de frameworks o bases de datos complejas.
